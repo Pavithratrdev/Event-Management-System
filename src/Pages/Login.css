@@ -1,0 +1,10 @@
+.Login{
+    width: 32%;
+    padding: 3pc;
+    border-radius: 15px;
+  }
+  @media screen and (max-width: 827px) {
+    .Login{
+      width: 50%;
+    }
+  }
